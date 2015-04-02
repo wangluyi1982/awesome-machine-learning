@@ -28,13 +28,18 @@ Statistics and Estimation for
 Social Scientists](http://faculty.ksu.edu.sa/69424/us_BOOk/Introduction%20to%20Applied%20Bayesian%20Statistics.pdf)
 * [Bayesian Modeling, Inference
 and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
+* [A Course in Machine Learning](http://ciml.info/)
 
-## Naturual Language Processing
+## Natural Language Processing
 
 * [Coursera Course Book on NLP](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
 * [NLTK](http://www.nltk.org/book/)
 * [NLP w/ Python](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf)
-* [Foundations of Statistical Language Processing](http://nlp.stanford.edu/fsnlp/promo/)
+* [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/promo/)
+
+## Neural Networks
+
+* [A Brief Introduction to Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
 
 ## Probability & Statistics
 
@@ -44,14 +49,18 @@ and Prediction](http://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf)
 * [All of Statistics](http://www.ucl.ac.uk/~rmjbale/Stat/wasserman2.pdf)
 * [Introduction to statistical thought](https://www.math.umass.edu/~lavine/Book/book.pdf)
 * [Basic Probability Theory](http://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf)
-* [Introduction to probability](http://math.dartmouth.edu/~prob/prob/prob.pdf)
+* [Introduction to probability](http://math.dartmouth.edu/~prob/prob/prob.pdf) - By Dartmouth College
 * [Principle of Uncertainty](http://uncertainty.stat.cmu.edu/wp-content/uploads/2011/05/principles-of-uncertainty.pdf)
 * [Probability & Statistics Cookbook](http://matthias.vallentin.net/probability-and-statistics-cookbook/)
 * [Advanced Data Analysis From An Elmentary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+* [Introduction to Probability](http://athenasc.com/probbook.html) -  Book and course by MIT
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](http://statweb.stanford.edu/~tibs/ElemStatLearn/) -Book  
+* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) - Book
+
 
 ## Linear Algebra
 
-* [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/LADW.pdf)
+* [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/book.pdf)
 * [Linear Algebra, Theory, and Applications](https://math.byu.edu/~klkuttle/Linearalgebra.pdf)
 * [Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/103/reader.pdf)
